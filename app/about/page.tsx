@@ -58,18 +58,18 @@ export default function About() {
               </h2>
 
               <div className="space-y-4 text-slate-600 leading-relaxed">
-                <p>
+                <div>
                   I am a highly skilled and motivated <span className="font-bold text-slate-900">Software Development Engineer</span> specializing in full-stack development, with <span className="font-bold text-blue-600">1.7 years</span> of experience building modern, scalable web applications using React, Next.js, Node.js, and MongoDB.
-                </p>
+                </div>
 
-                <p>
+                <div>
                   Passionate about crafting intuitive user interfaces and robust backend systems, I focus on writing
-                  <span className="font-bold text-slate-900">clean, maintainable code</span> and adhering to best practices in software development. My expertise spans the full web stack, enabling me to design and implement end-to-end solutions that solve real-world problems and deliver exceptional user experiences.
-                </p>
+                  <span className="font-bold text-slate-900"> clean, maintainable code</span> and adhering to best practices in software development. My expertise spans the full web stack, enabling me to design and implement end-to-end solutions that solve real-world problems and deliver exceptional user experiences.
+                </div>
 
-                <p>
+                <div>
                   Outside of coding, I enjoy exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community. I’m always eager to learn, collaborate, and take on new challenges that push my technical and creative boundaries.
-                </p>
+                </div>
               </div>
 
               <div className="mt-8 flex flex-wrap gap-4">

@@ -7,7 +7,7 @@ import { ReactNode } from 'react'
 export const metadata = {
   title: 'Akwin Deva Junuse G - Software Development Engineer',
   description: 'Full-stack developer specializing in React, Next.js, Node.js, and MongoDB. Building modern, scalable web applications.',
-  keywords: ['Software Developer', 'Full Stack', 'React', 'Next.js', 'Node.js', 'MongoDB'],
+  keywords: ['Akwin Deva Junuse','Akwin','Software Developer', 'Full Stack', 'React', 'Next.js', 'Node.js', 'MongoDB' ,'Chennai','Bengaluru','Looking fo ob'],
   authors: [{ name: 'Akwin Deva Junuse G' }],
   openGraph: {
     title: 'Akwin Deva Junuse G - Software Development Engineer',

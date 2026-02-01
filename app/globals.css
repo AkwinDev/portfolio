@@ -95,7 +95,7 @@
 
 @font-face {
   font-family: 'ProximaNova-Bold';
-  src: url('/public/fonts/proximaNova/ProximaNovaExtrabold.ttf') format('truetype');
+  src: url('/fonts/proximaNova/ProximaNovaExtrabold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -104,7 +104,7 @@
 
 @font-face {
   font-family: 'ProximaNova-SemiBold';
-  src: url('/public/fonts/proximaNova//ProximaNovaSemibold.ttf') format('truetype');
+  src: url('/fonts/proximaNova//ProximaNovaSemibold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -112,7 +112,7 @@
 
 @font-face {
   font-family: 'ProximaNova-Regular';
-  src: url('/public/fonts/proximaNova/ProximaNovaRegular.ttf') format('truetype');
+  src: url('/fonts/proximaNova/ProximaNovaRegular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -120,7 +120,7 @@
 
 @font-face {
   font-family: 'ProximaNova-Light';
-  src: url('/public/fonts/proximaNova/ProximaNovaLight.ttf') format('truetype');
+  src: url('/fonts/proximaNova/ProximaNovaLight.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
