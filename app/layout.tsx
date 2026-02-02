@@ -12,6 +12,8 @@ export const metadata = {
   openGraph: {
     title: 'Akwin Deva Junuse G - Software Development Engineer',
     description: 'Full-stack developer portfolio showcasing modern web applications',
+    url: "https://akwin-portfolio.vercel.app/",
+    siteName: "Akwin-Portfolio",
     type: 'website',
   },
 }

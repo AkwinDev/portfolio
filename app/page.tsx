@@ -137,6 +137,7 @@ export default function Home() {
                   <div className="relative">
                     <div className="">
                       <img src={"/assets/images/img2.jpg"} 
+                      alt='profile'
                       className='w-40 h-40 sm:w-48 sm:h-48 rounded-full 
                        object-[58%_50%] flex items-center justify-center text-white text-5xl sm:text-6xl font-bold shadow-2xl shadow-blue-500/30 object-cover'></img>
                     </div>
