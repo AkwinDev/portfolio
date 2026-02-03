@@ -91,7 +91,6 @@ export default function About() {
               <h3 className="text-2xl font-bold text-slate-900 mb-6">
                 What I Do Best
               </h3>
-
               <div className="grid sm:grid-cols-2 gap-4">
                 {[
                   {
