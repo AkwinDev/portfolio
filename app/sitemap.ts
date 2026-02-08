@@ -15,7 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: 'https://akwin-portfolio.vercel.app/project',
+      url: 'https://akwin-portfolio.vercel.app/projects',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 1,
@@ -27,7 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: 'https://akwin-portfolio.vercel.app/contacts',
+      url: 'https://akwin-portfolio.vercel.app/contact',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 1,
